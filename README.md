@@ -1,6 +1,6 @@
 # Jarvis: Your Personal Assistant
 
-![Jarvis Logo](https://via.placeholder.com/150)
+![Jarvis Logo](https://media.licdn.com/dms/image/v2/C4E12AQH-AYSy6dgC0g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1592916498242?e=2147483647&v=beta&t=DTi3UEsWdsCjb9kmn05sz8W2Ga6S_cccc34Sb9eloMk)
 
 ## Description
 
